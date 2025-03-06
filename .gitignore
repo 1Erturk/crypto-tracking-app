@@ -34,7 +34,7 @@ migrate_working_dir/
 # Firebase & Google Services
 google-services.json
 firebase_options.dart
-/lib/firebase_options.dart
+lib/firebase_options.dart
 
 # Environment
 .env
