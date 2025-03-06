@@ -1,0 +1,38 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "cryptocurrency-tracking",
+          "appId": "1:644559826673:android:ab25d21d7d964d18a04350",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "cryptocurrency-tracking",
+          "configurations": {
+            "android": "1:644559826673:android:ab25d21d7d964d18a04350",
+            "ios": "1:644559826673:ios:b3fa66fa4fdef563a04350",
+            "macos": "1:644559826673:ios:b3fa66fa4fdef563a04350",
+            "web": "1:644559826673:web:af95456df1c2b42aa04350",
+            "windows": "1:644559826673:web:e5574c8d373b2717a04350"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "644559826673",
+    "project_id": "cryptocurrency-tracking",
+    "storage_bucket": "cryptocurrency-tracking.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644559826673:android:ab25d21d7d964d18a04350",
+        "android_client_info": {
+          "package_name": "com.example.cryptocurrency_exchange"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnTH6GS_PQrtUPOfib7DfD8P1YHGV07UI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+D:/projects/cryptocurrency_exchange/cryptocurrency_exchange/android/app/.cxx/Debug/562u5w2k/x86_64/CMakeFiles/edit_cache.dir
+D:/projects/cryptocurrency_exchange/cryptocurrency_exchange/android/app/.cxx/Debug/562u5w2k/x86_64/CMakeFiles/rebuild_cache.dir
